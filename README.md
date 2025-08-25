@@ -30,7 +30,7 @@
 
 🎬 访问地址：[z3dream.cleves.me](https://z3dream.cleves.me)
 
-[备用](https://zzz-event.deno.dev/)
+国内备用地址： [备用](https://zzz-event.deno.dev/)
 
 📷 **扫码预览**（移动端）：
 
